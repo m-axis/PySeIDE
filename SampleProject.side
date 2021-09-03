@@ -1,0 +1,17 @@
+{
+  "id": "66e5668b-db4b-42ca-9f13-f7f9bb39b7b2",
+  "version": "2.0",
+  "name": "SampleProject",
+  "url": "",
+  "tests": [],
+  "suites": [{
+    "id": "56a132f2-b413-4f45-861f-11a677af9b32",
+    "name": "Combined Test Suite",
+    "persistSession": false,
+    "parallel": true,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": [],
+  "plugins": []
+}

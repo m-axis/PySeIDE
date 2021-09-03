@@ -1,0 +1,4 @@
+url: 'https://uat-testing.netstream.m21lab.com/'
+source_file_name: 'M21Lab_Covid19_Screening_Version_2.side'
+sample_file_name: 'SampleProject.side'
+create_json: False
